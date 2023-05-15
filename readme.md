@@ -9,3 +9,7 @@ the scripts in the book as code examples.
 
 Would you like to earn money by using the scripts for educational purpose please contact the 
 owner.
+
+Pliki o nazwach rozpoczynających się od S* to kod wykładu
+Pliki o nazwach rozpoczynających się od ex-S* to kod propozycji rozwiązania zadania
+Pamiętaj o dograniu danych na których pracują programy. Znajdziesz je w materiałach kursowych
