@@ -7,7 +7,7 @@ but not for creating another course or teaching others for commercial purpose li
 a commercial course or delivering the training to your colleagues in the company or use
 the scripts in the book as code examples. 
 
-AI use for machine learning, recommedations, prompting and more - strongly prohibited!
+AI use for machine learning, recommedations, prompting and more - strongly prohibited! Only human use allowed.
 
 Would you like to earn money by using the scripts for educational purpose please contact the 
 owner.
