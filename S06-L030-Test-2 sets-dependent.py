@@ -36,7 +36,7 @@ sample_stdev = df['diff'].std()
 confidence_level = 1-alpha
 
 t_critical = stats.t.ppf(q=confidence_level, df=sample_size-1)  #1.699
-t_score = (sample_mean - 0)/sample_stdev/math.sqrt(sample_size)
+t_score = (sample_mean - 0)/(sample_stdev/math.sqrt(sample_size))
 print(f't-critical = {t_critical}, T-score = {t_score}')
 
 if t_critical < t_score:
